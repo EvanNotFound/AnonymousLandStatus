@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.evanluo.top
   # baseUrl: /your-repo-name
-  logoUrl: https://www.evanluo.top/wp-content/uploads/2022/02/icons8-connection-status-on-96.png
+  logoUrl: https://s3.bmp.ovh/imgs/2022/02/81320dc51a96eaf9.png96.png
   name: Status
   introTitle: "**Evan's Websites** and frined's Websites Status"
   introMessage: By Evan Luo
