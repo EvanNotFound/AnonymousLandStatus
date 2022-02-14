@@ -4,20 +4,18 @@
     "url": "https://www.evanluo.top",
     "icon": "https://favicons.githubusercontent.com/www.evanluo.top",
     "slug": "anonymous-land",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 3042,
-    "timeDay": 3042,
-    "timeWeek": 3042,
-    "timeMonth": 3042,
-    "timeYear": 3042,
-    "dailyMinutesDown": {
-      "2022-02-14": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3193,
+    "timeDay": 3193,
+    "timeWeek": 3193,
+    "timeMonth": 3193,
+    "timeYear": 3193,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alexwei的部落格",
@@ -25,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/alexwei.top",
     "slug": "alexwei",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 886,
-    "timeDay": 886,
-    "timeWeek": 886,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {
-      "2022-02-14": 15
+      "2022-02-14": 21
     }
   }
 ]
