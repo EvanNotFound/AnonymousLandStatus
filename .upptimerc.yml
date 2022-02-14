@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://s3.bmp.ovh/imgs/2022/02/81320dc51a96eaf9.png96.png
   name: Status
-  introTitle: "**Evan's Websites** and frined's Websites Status"
+  introTitle: "**Evan's Websites** and friends' Websites Status"
   introMessage: By Evan Luo
   navbar:
     - title: Status
