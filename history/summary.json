@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3995,
-    "timeDay": 3995,
-    "timeWeek": 3995,
-    "timeMonth": 3995,
-    "timeYear": 3995,
+    "time": 3657,
+    "timeDay": 3657,
+    "timeWeek": 3657,
+    "timeMonth": 3657,
+    "timeYear": 3657,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/alexwei.top",
     "slug": "alexwei",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 861,
-    "timeDay": 861,
-    "timeWeek": 861,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 824,
+    "timeDay": 824,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2022-02-14": 22
+      "2022-02-14": 88
     }
   }
 ]
