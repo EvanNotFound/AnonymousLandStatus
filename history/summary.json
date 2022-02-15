@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/alexwei.top",
     "slug": "alexwei",
     "status": "up",
-    "uptime": "20.87%",
-    "uptimeDay": "20.87%",
-    "uptimeWeek": "20.87%",
-    "uptimeMonth": "20.87%",
-    "uptimeYear": "20.87%",
+    "uptime": "18.92%",
+    "uptimeDay": "18.92%",
+    "uptimeWeek": "18.92%",
+    "uptimeMonth": "18.92%",
+    "uptimeYear": "18.92%",
     "time": 1202,
     "timeDay": 1202,
     "timeWeek": 1202,
     "timeMonth": 1202,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2022-02-15": 335,
+      "2022-02-15": 468,
       "2022-02-14": 620
     }
   },
@@ -91,5 +91,25 @@
     "timeMonth": 3604,
     "timeYear": 3604,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Minecraft 面板服",
+    "url": "https://tc.yunqiaold.cn",
+    "icon": "https://favicons.githubusercontent.com/tc.yunqiaold.cn",
+    "slug": "minecraft",
+    "status": "down",
+    "uptime": "69.08%",
+    "uptimeDay": "69.08%",
+    "uptimeWeek": "69.08%",
+    "uptimeMonth": "69.08%",
+    "uptimeYear": "69.08%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   }
 ]
