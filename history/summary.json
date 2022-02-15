@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3389,
-    "timeDay": 3389,
-    "timeWeek": 3389,
-    "timeMonth": 3389,
-    "timeYear": 3389,
+    "time": 3223,
+    "timeDay": 3223,
+    "timeWeek": 3223,
+    "timeMonth": 3223,
+    "timeYear": 3223,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,32 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "time": 858,
+    "timeDay": 858,
+    "timeWeek": 858,
+    "timeMonth": 858,
+    "timeYear": 858,
     "dailyMinutesDown": {
-      "2022-02-15": 77,
+      "2022-02-15": 190,
       "2022-02-14": 620
     }
+  },
+  {
+    "name": "Minecreeper的小站",
+    "url": "https://minecreeper.evanluo.top",
+    "icon": "https://favicons.githubusercontent.com/minecreeper.evanluo.top",
+    "slug": "minecreeper",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2739,
+    "timeDay": 2739,
+    "timeWeek": 2739,
+    "timeMonth": 2739,
+    "timeYear": 2739,
+    "dailyMinutesDown": {}
   }
 ]
