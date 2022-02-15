@@ -13,6 +13,8 @@ sites:
     url: http://alexwei.top
   - name: Minecreeper的小站
     url: https://minecreeper.evanluo.top
+  - name: Minecraft 面板服
+    url: https://来个tc.yunqiaold.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -28,6 +30,8 @@ status-website:
       href: /
     - title: HomePage
       href: https://www.evanluo.top
+    - title: Github
+      href: https://github.com/EvanLuo233/AnonymousLandStatus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
