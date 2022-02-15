@@ -7,7 +7,10 @@ sites:
     url: https://www.evanluo.top
   - name: Alexwei的部落格
     url: http://alexwei.top
-
+  - name: Minecreeper的小站
+    url: https://minecreeper.evanluo.top
+    
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
