@@ -4,18 +4,20 @@
     "url": "https://www.evanluo.top",
     "icon": "https://favicons.githubusercontent.com/www.evanluo.top",
     "slug": "anonymous-land-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 1196,
-    "timeWeek": 1196,
-    "timeMonth": 1196,
-    "timeYear": 1196,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 6471,
+    "timeDay": 6471,
+    "timeWeek": 6471,
+    "timeMonth": 6471,
+    "timeYear": 6471,
+    "dailyMinutesDown": {
+      "2022-02-16": 1
+    }
   },
   {
     "name": "Anonymous Land Cloud 网盘",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/alexwei.top",
     "slug": "alexwei",
     "status": "up",
-    "uptime": "11.89%",
+    "uptime": "10.62%",
     "uptimeDay": "17.62%",
-    "uptimeWeek": "11.89%",
-    "uptimeMonth": "11.89%",
-    "uptimeYear": "11.89%",
+    "uptimeWeek": "10.62%",
+    "uptimeMonth": "10.62%",
+    "uptimeYear": "10.62%",
     "time": 1447,
-    "timeDay": 2354,
+    "timeDay": 2820,
     "timeWeek": 1447,
     "timeMonth": 1447,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2022-02-16": 73,
+      "2022-02-16": 329,
       "2022-02-15": 1186,
       "2022-02-14": 620
     }
@@ -87,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3234,
-    "timeDay": 3234,
+    "timeDay": 3482,
     "timeWeek": 3234,
     "timeMonth": 3234,
     "timeYear": 3234,
@@ -110,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-16": 146,
+      "2022-02-16": 658,
       "2022-02-15": 1438
     }
   }
